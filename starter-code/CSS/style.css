@@ -64,3 +64,8 @@ footer{
 	background: #808080;
 	clear: both;
 }
+
+img {
+	height: 200px;
+  width: 150px;
+}
